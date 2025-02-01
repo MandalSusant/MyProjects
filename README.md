@@ -27,7 +27,7 @@ This is a simple Pac-Man game implemented in Java using Java Swing and AWT for t
 ## Dependencies
 - Java Swing for UI
 - AWT for rendering
-- 
+
 ## SCREENSHOT
 ![Screenshot 2025-01-31 211313](https://github.com/user-attachments/assets/f0cf6998-a5dd-4236-a381-b4ac605cd487)
 
